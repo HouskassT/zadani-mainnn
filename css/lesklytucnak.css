@@ -1,0 +1,12 @@
+body {
+    background-color: #388c9b33;
+}
+h2 {
+    text-align: center;
+    font-style: italic;
+    font-size: 50px;
+    background: linear-gradient(to left, #2a2361, #549da06b, #0f0c29);
+    border: 3px solid rgba(89, 52, 131, 0.301);
+    margin: auto;
+    padding: 1%;
+}

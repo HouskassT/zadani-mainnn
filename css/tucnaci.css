@@ -1,0 +1,37 @@
+body {
+    background-color: #8b82df48;
+}
+h1 {
+    background: linear-gradient(to left, #42c9d3, #1a03e6, #302b63);
+    text-align: center;
+    font-size: 70px;
+    padding: 1%;
+    margin: 0;
+    color: white;
+    font-style: italic;
+    border: 3px solid rgb(119, 0, 255);
+}
+.p1 {
+    text-align: center;
+    font-size: 30px;
+    text-decoration-line: underline;
+    font-style: italic;
+}
+li {
+    list-style-type: none;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 50px;
+}
+a:hover {
+    color: brown;
+}
+footer {
+    background: linear-gradient(to left, #42c9d3, #302b63);
+    text-align: center;
+    font-size: large;
+    padding: 4px;
+    margin-top: 20.5%;
+    color: aliceblue;
+}
+
