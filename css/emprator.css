@@ -21,7 +21,7 @@ h2 {
 
 
 footer {
-    background-color: #549da06b;
+    background: linear-gradient(to right, #2a23618f, #549da06b);
     text-align: center;
     font-size: large;
     padding: 3px;
